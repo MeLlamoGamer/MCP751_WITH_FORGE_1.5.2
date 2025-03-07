@@ -1,0 +1,23 @@
+12:26:23 - "scalac" is not found on the PATH.  Scala files will not be recompiled
+12:29:55 - !! renaming disabled !!
+12:30:04 - "scalac" is not found on the PATH.  Scala files will not be recompiled
+12:30:34 - "scalac" is not found on the PATH.  Scala files will not be recompiled
+12:30:54 - "scalac" is not found on the PATH.  Scala files will not be recompiled
+12:31:33 - "scalac" is not found on the PATH.  Scala files will not be recompiled
+12:31:55 - "scalac" is not found on the PATH.  Scala files will not be recompiled
+12:32:50 - "scalac" is not found on the PATH.  Scala files will not be recompiled
+12:33:21 - '"C:\Program Files\Java\jdk-1.8\bin\java" -Xincgc -Xms1024M -Xmx1024M -cp "..\bin\minecraft;..\src\mi...' failed : 1
+12:33:21 - FATAL ERROR
+Traceback (most recent call last):
+  File "runtime\startclient.py", line 30, in startclient
+  File "C:\Users\Iñaki Olcese\Desktop\MCP_FORGE_1.5.2\runtime\commands.py", line 1180, in startclient
+    self.runmc(forkcmd)
+  File "C:\Users\Iñaki Olcese\Desktop\MCP_FORGE_1.5.2\runtime\commands.py", line 1220, in runmc
+    raise CalledProcessError(process.returncode, forkcmd, output)
+CalledProcessError: Command '"C:\Program Files\Java\jdk-1.8\bin\java" -Xincgc -Xms1024M -Xmx1024M -cp "..\bin\minecraft;..\src\minecraft;..\lib;..\lib\*;..\jars\bin\minecraft.jar;..\jars\bin\jinput.jar;..\jars\bin\lwjgl.jar;..\jars\bin\lwjgl_util.jar" -Djava.library.path=..\jars\bin\natives Start' returned non-zero exit status 1
+12:34:35 - "scalac" is not found on the PATH.  Scala files will not be recompiled
+12:37:23 - "scalac" is not found on the PATH.  Scala files will not be recompiled
+12:37:51 - !! Can not find server sources, try decompiling !!
+12:37:58 - "scalac" is not found on the PATH.  Scala files will not be recompiled
+12:51:00 - "scalac" is not found on the PATH.  Scala files will not be recompiled
+12:51:15 - !! Can not find server md5s !!

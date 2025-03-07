@@ -1,0 +1,23 @@
+2025-03-07 12:38:17 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2025-03-07 12:38:17 [SERVER] [INFO] Generating keypair
+2025-03-07 12:38:17 [SERVER] [INFO] Converting map!
+2025-03-07 12:38:17 [SERVER] [INFO] Scanning folders...
+2025-03-07 12:38:17 [SERVER] [INFO] Total conversion count is 0
+2025-03-07 12:38:18 [SERVER] [INFO] Preparing start region for level 0
+2025-03-07 12:38:19 [SERVER] [INFO] Preparing spawn area: 9%
+2025-03-07 12:38:20 [SERVER] [INFO] Preparing spawn area: 19%
+2025-03-07 12:38:21 [SERVER] [INFO] Preparing spawn area: 29%
+2025-03-07 12:38:22 [SERVER] [INFO] Preparing spawn area: 43%
+2025-03-07 12:38:23 [SERVER] [INFO] Preparing spawn area: 61%
+2025-03-07 12:38:24 [SERVER] [INFO] Preparing spawn area: 78%
+2025-03-07 12:38:25 [SERVER] [INFO] Player567[/127.0.0.1:0] logged in with entity id 234 at (-109.5, 76.0, 251.5)
+2025-03-07 12:39:10 [SERVER] [INFO] Saving and pausing game...
+2025-03-07 12:39:10 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-03-07 12:39:10 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-03-07 12:39:10 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2025-03-07 12:39:11 [SERVER] [INFO] Stopping server
+2025-03-07 12:39:11 [SERVER] [INFO] Saving players
+2025-03-07 12:39:11 [SERVER] [INFO] Saving worlds
+2025-03-07 12:39:11 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2025-03-07 12:39:11 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2025-03-07 12:39:11 [SERVER] [INFO] Saving chunks for level 'New World'/The End

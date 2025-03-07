@@ -1,0 +1,106 @@
+2025-03-07 12:32:51 [INFO] [ForgeModLoader] Forge Mod Loader version 5.2.23.738 for Minecraft 1.5.2 loading
+2025-03-07 12:32:51 [INFO] [ForgeModLoader] Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_431, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jdk-1.8\jre
+2025-03-07 12:32:51 [FINE] [ForgeModLoader] Java classpath at launch is ..\bin\minecraft;..\src\minecraft;..\lib;..\lib\argo-3.2-src.jar;..\lib\asm-debug-all-4.1.jar;..\lib\bcprov-debug-jdk15on-148.jar;..\lib\guava-14.0-rc3-sources.jar;..\lib\guava-14.0-rc3.jar;..\lib\scala-library.jar;..\jars\bin\minecraft.jar;..\jars\bin\jinput.jar;..\jars\bin\lwjgl.jar;..\jars\bin\lwjgl_util.jar
+2025-03-07 12:32:51 [FINE] [ForgeModLoader] Java library path at launch is ..\jars\bin\natives
+2025-03-07 12:32:51 [INFO] [ForgeModLoader] Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+2025-03-07 12:32:51 [FINEST] [ForgeModLoader] All core mods are successfully located
+2025-03-07 12:32:51 [FINEST] [ForgeModLoader] Discovering coremods
+2025-03-07 12:32:51 [FINEST] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/argo-small-3.2.jar
+2025-03-07 12:32:51 [INFO] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/argo-small-3.2.jar
+2025-03-07 12:32:52 [FINEST] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/guava-14.0-rc3.jar
+2025-03-07 12:32:52 [INFO] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/guava-14.0-rc3.jar
+2025-03-07 12:32:53 [FINEST] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/asm-all-4.1.jar
+2025-03-07 12:32:53 [INFO] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/asm-all-4.1.jar
+2025-03-07 12:32:53 [FINEST] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/bcprov-jdk15on-148.jar
+2025-03-07 12:32:53 [INFO] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/bcprov-jdk15on-148.jar
+2025-03-07 12:32:53 [FINEST] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/deobfuscation_data_1.5.2.zip
+2025-03-07 12:32:53 [INFO] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/deobfuscation_data_1.5.2.zip
+2025-03-07 12:32:54 [FINEST] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/scala-library.jar
+2025-03-07 12:32:54 [INFO] [ForgeModLoader] Downloading file http://files.minecraftforge.net/fmllibs/scala-library.jar
+2025-03-07 12:32:54 [SEVERE] [ForgeModLoader] There were errors during initial FML setup. Some files failed to download or were otherwise corrupted. You will need to manually obtain the following files from these download links and ensure your lib directory is clean. 
+2025-03-07 12:32:54 [SEVERE] [ForgeModLoader] *** Download http://files.minecraftforge.net/fmllibs/argo-small-3.2.jar
+2025-03-07 12:32:54 [SEVERE] [ForgeModLoader] *** Download http://files.minecraftforge.net/fmllibs/guava-14.0-rc3.jar
+2025-03-07 12:32:54 [SEVERE] [ForgeModLoader] *** Download http://files.minecraftforge.net/fmllibs/asm-all-4.1.jar
+2025-03-07 12:32:54 [SEVERE] [ForgeModLoader] *** Download http://files.minecraftforge.net/fmllibs/bcprov-jdk15on-148.jar
+2025-03-07 12:32:54 [SEVERE] [ForgeModLoader] *** Download http://files.minecraftforge.net/fmllibs/deobfuscation_data_1.5.2.zip
+2025-03-07 12:32:54 [SEVERE] [ForgeModLoader] *** Download http://files.minecraftforge.net/fmllibs/scala-library.jar
+2025-03-07 12:32:54 [SEVERE] [ForgeModLoader] <===========>
+2025-03-07 12:32:54 [SEVERE] [ForgeModLoader] The following is the errors that caused the setup to fail. They may help you diagnose and resolve the issue
+2025-03-07 12:32:54 [SEVERE] [ForgeModLoader] The downloaded file argo-small-3.2.jar has an invalid checksum e04c5335922c5e457f0a7cd62c93c4a7f699f829 (expecting 58912ea2858d168c50781f956fa5b59f0f7c6b51). The download did not succeed correctly and the file has been deleted. Please try launching again.
+2025-03-07 12:32:54 [SEVERE] [ForgeModLoader] The downloaded file guava-14.0-rc3.jar has an invalid checksum e04c5335922c5e457f0a7cd62c93c4a7f699f829 (expecting 931ae21fa8014c3ce686aaa621eae565fefb1a6a). The download did not succeed correctly and the file has been deleted. Please try launching again.
+2025-03-07 12:32:54 [SEVERE] [ForgeModLoader] The downloaded file asm-all-4.1.jar has an invalid checksum e04c5335922c5e457f0a7cd62c93c4a7f699f829 (expecting 054986e962b88d8660ae4566475658469595ef58). The download did not succeed correctly and the file has been deleted. Please try launching again.
+2025-03-07 12:32:54 [SEVERE] [ForgeModLoader] The downloaded file bcprov-jdk15on-148.jar has an invalid checksum e04c5335922c5e457f0a7cd62c93c4a7f699f829 (expecting 960dea7c9181ba0b17e8bab0c06a43f0a5f04e65). The download did not succeed correctly and the file has been deleted. Please try launching again.
+2025-03-07 12:32:54 [SEVERE] [ForgeModLoader] The downloaded file deobfuscation_data_1.5.2.zip has an invalid checksum e04c5335922c5e457f0a7cd62c93c4a7f699f829 (expecting 446e55cd986582c70fcf12cb27bc00114c5adfd9). The download did not succeed correctly and the file has been deleted. Please try launching again.
+2025-03-07 12:32:54 [SEVERE] [ForgeModLoader] The downloaded file scala-library.jar has an invalid checksum e04c5335922c5e457f0a7cd62c93c4a7f699f829 (expecting 458d046151ad179c85429ed7420ffb1eaf6ddf85). The download did not succeed correctly and the file has been deleted. Please try launching again.
+2025-03-07 12:32:54 [SEVERE] [ForgeModLoader] <<< ==== >>>
+2025-03-07 12:32:54 [SEVERE] [ForgeModLoader] The following is diagnostic information for developers to review.
+2025-03-07 12:32:54 [SEVERE] [ForgeModLoader] Error details
+java.lang.RuntimeException: The downloaded file argo-small-3.2.jar has an invalid checksum e04c5335922c5e457f0a7cd62c93c4a7f699f829 (expecting 58912ea2858d168c50781f956fa5b59f0f7c6b51). The download did not succeed correctly and the file has been deleted. Please try launching again.
+	at cpw.mods.fml.relauncher.RelaunchLibraryManager.performDownload(RelaunchLibraryManager.java:613)
+	at cpw.mods.fml.relauncher.RelaunchLibraryManager.downloadFile(RelaunchLibraryManager.java:532)
+	at cpw.mods.fml.relauncher.RelaunchLibraryManager.handleLaunch(RelaunchLibraryManager.java:165)
+	at cpw.mods.fml.relauncher.FMLRelauncher.setupHome(FMLRelauncher.java:172)
+	at cpw.mods.fml.relauncher.FMLRelauncher.relaunchClient(FMLRelauncher.java:104)
+	at cpw.mods.fml.relauncher.FMLRelauncher.handleClientRelaunch(FMLRelauncher.java:38)
+	at net.minecraft.client.Minecraft.main(Minecraft.java:2237)
+	at Start.main(Start.java:29)
+2025-03-07 12:32:54 [SEVERE] [ForgeModLoader] Error details
+java.lang.RuntimeException: The downloaded file guava-14.0-rc3.jar has an invalid checksum e04c5335922c5e457f0a7cd62c93c4a7f699f829 (expecting 931ae21fa8014c3ce686aaa621eae565fefb1a6a). The download did not succeed correctly and the file has been deleted. Please try launching again.
+	at cpw.mods.fml.relauncher.RelaunchLibraryManager.performDownload(RelaunchLibraryManager.java:613)
+	at cpw.mods.fml.relauncher.RelaunchLibraryManager.downloadFile(RelaunchLibraryManager.java:532)
+	at cpw.mods.fml.relauncher.RelaunchLibraryManager.handleLaunch(RelaunchLibraryManager.java:165)
+	at cpw.mods.fml.relauncher.FMLRelauncher.setupHome(FMLRelauncher.java:172)
+	at cpw.mods.fml.relauncher.FMLRelauncher.relaunchClient(FMLRelauncher.java:104)
+	at cpw.mods.fml.relauncher.FMLRelauncher.handleClientRelaunch(FMLRelauncher.java:38)
+	at net.minecraft.client.Minecraft.main(Minecraft.java:2237)
+	at Start.main(Start.java:29)
+2025-03-07 12:32:54 [SEVERE] [ForgeModLoader] Error details
+java.lang.RuntimeException: The downloaded file asm-all-4.1.jar has an invalid checksum e04c5335922c5e457f0a7cd62c93c4a7f699f829 (expecting 054986e962b88d8660ae4566475658469595ef58). The download did not succeed correctly and the file has been deleted. Please try launching again.
+	at cpw.mods.fml.relauncher.RelaunchLibraryManager.performDownload(RelaunchLibraryManager.java:613)
+	at cpw.mods.fml.relauncher.RelaunchLibraryManager.downloadFile(RelaunchLibraryManager.java:532)
+	at cpw.mods.fml.relauncher.RelaunchLibraryManager.handleLaunch(RelaunchLibraryManager.java:165)
+	at cpw.mods.fml.relauncher.FMLRelauncher.setupHome(FMLRelauncher.java:172)
+	at cpw.mods.fml.relauncher.FMLRelauncher.relaunchClient(FMLRelauncher.java:104)
+	at cpw.mods.fml.relauncher.FMLRelauncher.handleClientRelaunch(FMLRelauncher.java:38)
+	at net.minecraft.client.Minecraft.main(Minecraft.java:2237)
+	at Start.main(Start.java:29)
+2025-03-07 12:32:54 [SEVERE] [ForgeModLoader] Error details
+java.lang.RuntimeException: The downloaded file bcprov-jdk15on-148.jar has an invalid checksum e04c5335922c5e457f0a7cd62c93c4a7f699f829 (expecting 960dea7c9181ba0b17e8bab0c06a43f0a5f04e65). The download did not succeed correctly and the file has been deleted. Please try launching again.
+	at cpw.mods.fml.relauncher.RelaunchLibraryManager.performDownload(RelaunchLibraryManager.java:613)
+	at cpw.mods.fml.relauncher.RelaunchLibraryManager.downloadFile(RelaunchLibraryManager.java:532)
+	at cpw.mods.fml.relauncher.RelaunchLibraryManager.handleLaunch(RelaunchLibraryManager.java:165)
+	at cpw.mods.fml.relauncher.FMLRelauncher.setupHome(FMLRelauncher.java:172)
+	at cpw.mods.fml.relauncher.FMLRelauncher.relaunchClient(FMLRelauncher.java:104)
+	at cpw.mods.fml.relauncher.FMLRelauncher.handleClientRelaunch(FMLRelauncher.java:38)
+	at net.minecraft.client.Minecraft.main(Minecraft.java:2237)
+	at Start.main(Start.java:29)
+2025-03-07 12:32:54 [SEVERE] [ForgeModLoader] Error details
+java.lang.RuntimeException: The downloaded file deobfuscation_data_1.5.2.zip has an invalid checksum e04c5335922c5e457f0a7cd62c93c4a7f699f829 (expecting 446e55cd986582c70fcf12cb27bc00114c5adfd9). The download did not succeed correctly and the file has been deleted. Please try launching again.
+	at cpw.mods.fml.relauncher.RelaunchLibraryManager.performDownload(RelaunchLibraryManager.java:613)
+	at cpw.mods.fml.relauncher.RelaunchLibraryManager.downloadFile(RelaunchLibraryManager.java:532)
+	at cpw.mods.fml.relauncher.RelaunchLibraryManager.handleLaunch(RelaunchLibraryManager.java:165)
+	at cpw.mods.fml.relauncher.FMLRelauncher.setupHome(FMLRelauncher.java:172)
+	at cpw.mods.fml.relauncher.FMLRelauncher.relaunchClient(FMLRelauncher.java:104)
+	at cpw.mods.fml.relauncher.FMLRelauncher.handleClientRelaunch(FMLRelauncher.java:38)
+	at net.minecraft.client.Minecraft.main(Minecraft.java:2237)
+	at Start.main(Start.java:29)
+2025-03-07 12:32:54 [SEVERE] [ForgeModLoader] Error details
+java.lang.RuntimeException: The downloaded file scala-library.jar has an invalid checksum e04c5335922c5e457f0a7cd62c93c4a7f699f829 (expecting 458d046151ad179c85429ed7420ffb1eaf6ddf85). The download did not succeed correctly and the file has been deleted. Please try launching again.
+	at cpw.mods.fml.relauncher.RelaunchLibraryManager.performDownload(RelaunchLibraryManager.java:613)
+	at cpw.mods.fml.relauncher.RelaunchLibraryManager.downloadFile(RelaunchLibraryManager.java:532)
+	at cpw.mods.fml.relauncher.RelaunchLibraryManager.handleLaunch(RelaunchLibraryManager.java:165)
+	at cpw.mods.fml.relauncher.FMLRelauncher.setupHome(FMLRelauncher.java:172)
+	at cpw.mods.fml.relauncher.FMLRelauncher.relaunchClient(FMLRelauncher.java:104)
+	at cpw.mods.fml.relauncher.FMLRelauncher.handleClientRelaunch(FMLRelauncher.java:38)
+	at net.minecraft.client.Minecraft.main(Minecraft.java:2237)
+	at Start.main(Start.java:29)
+2025-03-07 12:33:19 [INFO] [STDERR] Exception in thread "main" java.lang.RuntimeException: java.lang.RuntimeException: A fatal error occured and FML cannot continue
+2025-03-07 12:33:19 [INFO] [STDERR] 	at cpw.mods.fml.relauncher.FMLRelauncher.setupHome(FMLRelauncher.java:192)
+2025-03-07 12:33:19 [INFO] [STDERR] 	at cpw.mods.fml.relauncher.FMLRelauncher.relaunchClient(FMLRelauncher.java:104)
+2025-03-07 12:33:19 [INFO] [STDERR] 	at cpw.mods.fml.relauncher.FMLRelauncher.handleClientRelaunch(FMLRelauncher.java:38)
+2025-03-07 12:33:19 [INFO] [STDERR] 	at net.minecraft.client.Minecraft.main(Minecraft.java:2237)
+2025-03-07 12:33:19 [INFO] [STDERR] 	at Start.main(Start.java:29)
+2025-03-07 12:33:19 [INFO] [STDERR] Caused by: java.lang.RuntimeException: A fatal error occured and FML cannot continue
+2025-03-07 12:33:19 [INFO] [STDERR] 	at cpw.mods.fml.relauncher.RelaunchLibraryManager.handleLaunch(RelaunchLibraryManager.java:261)
+2025-03-07 12:33:19 [INFO] [STDERR] 	at cpw.mods.fml.relauncher.FMLRelauncher.setupHome(FMLRelauncher.java:172)
+2025-03-07 12:33:19 [INFO] [STDERR] 	... 4 more

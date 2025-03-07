@@ -1,0 +1,621 @@
+2025-03-07 12:37:59 [INFO] [ForgeModLoader] Forge Mod Loader version 5.2.23.738 for Minecraft 1.5.2 loading
+2025-03-07 12:37:59 [INFO] [ForgeModLoader] Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_431, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jdk-1.8\jre
+2025-03-07 12:37:59 [FINE] [ForgeModLoader] Java classpath at launch is ..\bin\minecraft;..\src\minecraft;..\lib;..\lib\argo-3.2-src.jar;..\lib\asm-debug-all-4.1.jar;..\lib\bcprov-debug-jdk15on-148.jar;..\lib\guava-14.0-rc3-sources.jar;..\lib\guava-14.0-rc3.jar;..\lib\scala-library.jar;..\jars\bin\minecraft.jar;..\jars\bin\jinput.jar;..\jars\bin\lwjgl.jar;..\jars\bin\lwjgl_util.jar
+2025-03-07 12:37:59 [FINE] [ForgeModLoader] Java library path at launch is ..\jars\bin\natives
+2025-03-07 12:37:59 [INFO] [ForgeModLoader] Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+2025-03-07 12:37:59 [FINEST] [ForgeModLoader] All core mods are successfully located
+2025-03-07 12:37:59 [FINEST] [ForgeModLoader] Discovering coremods
+2025-03-07 12:37:59 [FINEST] [ForgeModLoader] Found library file argo-small-3.2.jar present and correct in lib dir
+2025-03-07 12:37:59 [FINEST] [ForgeModLoader] Found library file guava-14.0-rc3.jar present and correct in lib dir
+2025-03-07 12:37:59 [FINEST] [ForgeModLoader] Found library file asm-all-4.1.jar present and correct in lib dir
+2025-03-07 12:37:59 [FINEST] [ForgeModLoader] Found library file bcprov-jdk15on-148.jar present and correct in lib dir
+2025-03-07 12:37:59 [FINEST] [ForgeModLoader] Found library file deobfuscation_data_1.5.2.zip present and correct in lib dir
+2025-03-07 12:37:59 [FINEST] [ForgeModLoader] Found library file scala-library.jar present and correct in lib dir
+2025-03-07 12:38:00 [FINEST] [ForgeModLoader] Running coremod plugins
+2025-03-07 12:38:00 [FINEST] [ForgeModLoader] Running coremod plugin FMLCorePlugin
+2025-03-07 12:38:01 [FINEST] [ForgeModLoader] Coremod plugin FMLCorePlugin run successfully
+2025-03-07 12:38:01 [FINEST] [ForgeModLoader] Running coremod plugin FMLForgePlugin
+2025-03-07 12:38:01 [FINEST] [ForgeModLoader] Coremod plugin FMLForgePlugin run successfully
+2025-03-07 12:38:01 [FINEST] [ForgeModLoader] Validating minecraft
+2025-03-07 12:38:01 [FINEST] [ForgeModLoader] Minecraft validated, launching...
+2025-03-07 12:38:03 [INFO] [STDOUT] 229 recipes
+2025-03-07 12:38:03 [INFO] [STDOUT] 27 achievements
+2025-03-07 12:38:03 [INFO] [Minecraft-Client] Setting user: Player567
+2025-03-07 12:38:03 [INFO] [STDOUT] (Session ID is -)
+2025-03-07 12:38:03 [INFO] [STDERR] Client asked for parameter: server
+2025-03-07 12:38:04 [INFO] [Minecraft-Client] LWJGL Version: 2.4.2
+2025-03-07 12:38:04 [INFO] [MinecraftForge] Attempting early MinecraftForge initialization
+2025-03-07 12:38:04 [INFO] [STDOUT] MinecraftForge v7.8.1.738 Initialized
+2025-03-07 12:38:04 [INFO] [ForgeModLoader] MinecraftForge v7.8.1.738 Initialized
+2025-03-07 12:38:05 [INFO] [STDOUT] Replaced 85 ore recipies
+2025-03-07 12:38:05 [INFO] [MinecraftForge] Completed early MinecraftForge initialization
+2025-03-07 12:38:05 [INFO] [ForgeModLoader] Reading custom logging properties from C:\Users\Iñaki Olcese\Desktop\MCP_FORGE_1.5.2\jars\config\logging.properties
+2025-03-07 12:38:05 [OFF] [ForgeModLoader] Logging level for ForgeModLoader logging is set to ALL
+2025-03-07 12:38:05 [FINE] [ForgeModLoader] Building injected Mod Containers [cpw.mods.fml.common.FMLDummyContainer, net.minecraftforge.common.ForgeDummyContainer]
+2025-03-07 12:38:05 [FINE] [ForgeModLoader] Attempting to load mods contained in the minecraft jar file and associated classes
+2025-03-07 12:38:05 [FINE] [ForgeModLoader] Found a minecraft related directory at C:\Users\Iñaki Olcese\Desktop\MCP_FORGE_1.5.2\bin\minecraft, examining for mod candidates
+2025-03-07 12:38:05 [FINE] [ForgeModLoader] Found a minecraft related directory at C:\Users\Iñaki Olcese\Desktop\MCP_FORGE_1.5.2\src\minecraft, examining for mod candidates
+2025-03-07 12:38:05 [FINE] [ForgeModLoader] Found a minecraft related directory at C:\Users\Iñaki Olcese\Desktop\MCP_FORGE_1.5.2\lib, examining for mod candidates
+2025-03-07 12:38:05 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\Iñaki Olcese\Desktop\MCP_FORGE_1.5.2\lib\argo-3.2-src.jar, examining for mod candidates
+2025-03-07 12:38:05 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\Iñaki Olcese\Desktop\MCP_FORGE_1.5.2\lib\asm-debug-all-4.1.jar, examining for mod candidates
+2025-03-07 12:38:05 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\Iñaki Olcese\Desktop\MCP_FORGE_1.5.2\lib\bcprov-debug-jdk15on-148.jar, examining for mod candidates
+2025-03-07 12:38:05 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\Iñaki Olcese\Desktop\MCP_FORGE_1.5.2\lib\guava-14.0-rc3-sources.jar, examining for mod candidates
+2025-03-07 12:38:05 [FINER] [ForgeModLoader] Skipping known library file C:\Users\Iñaki Olcese\Desktop\MCP_FORGE_1.5.2\lib\guava-14.0-rc3.jar
+2025-03-07 12:38:05 [FINER] [ForgeModLoader] Skipping known library file C:\Users\Iñaki Olcese\Desktop\MCP_FORGE_1.5.2\lib\scala-library.jar
+2025-03-07 12:38:05 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\Iñaki Olcese\Desktop\MCP_FORGE_1.5.2\jars\bin\minecraft.jar, examining for mod candidates
+2025-03-07 12:38:05 [FINER] [ForgeModLoader] Skipping known library file C:\Users\Iñaki Olcese\Desktop\MCP_FORGE_1.5.2\jars\bin\jinput.jar
+2025-03-07 12:38:05 [FINER] [ForgeModLoader] Skipping known library file C:\Users\Iñaki Olcese\Desktop\MCP_FORGE_1.5.2\jars\bin\lwjgl.jar
+2025-03-07 12:38:05 [FINER] [ForgeModLoader] Skipping known library file C:\Users\Iñaki Olcese\Desktop\MCP_FORGE_1.5.2\jars\bin\lwjgl_util.jar
+2025-03-07 12:38:05 [FINER] [ForgeModLoader] Skipping known library file C:\Users\Iñaki Olcese\Desktop\MCP_FORGE_1.5.2\jars\lib\argo-small-3.2.jar
+2025-03-07 12:38:05 [FINER] [ForgeModLoader] Skipping known library file C:\Users\Iñaki Olcese\Desktop\MCP_FORGE_1.5.2\jars\lib\guava-14.0-rc3.jar
+2025-03-07 12:38:05 [FINER] [ForgeModLoader] Skipping known library file C:\Users\Iñaki Olcese\Desktop\MCP_FORGE_1.5.2\jars\lib\asm-all-4.1.jar
+2025-03-07 12:38:05 [FINER] [ForgeModLoader] Skipping known library file C:\Users\Iñaki Olcese\Desktop\MCP_FORGE_1.5.2\jars\lib\bcprov-jdk15on-148.jar
+2025-03-07 12:38:05 [FINER] [ForgeModLoader] Skipping known library file C:\Users\Iñaki Olcese\Desktop\MCP_FORGE_1.5.2\jars\lib\deobfuscation_data_1.5.2.zip
+2025-03-07 12:38:05 [FINER] [ForgeModLoader] Skipping known library file C:\Users\Iñaki Olcese\Desktop\MCP_FORGE_1.5.2\jars\lib\scala-library.jar
+2025-03-07 12:38:05 [FINE] [ForgeModLoader] Minecraft jar mods loaded successfully
+2025-03-07 12:38:05 [INFO] [ForgeModLoader] Searching C:\Users\Iñaki Olcese\Desktop\MCP_FORGE_1.5.2\jars\mods for mods
+2025-03-07 12:38:05 [FINE] [ForgeModLoader] Examining directory minecraft for potential mods
+2025-03-07 12:38:05 [FINE] [ForgeModLoader] No mcmod.info file found in directory minecraft
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package cpw
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package cpw.mods
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.client
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.client.modloader
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.client.registry
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.asm
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.asm.transformers
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.asm.transformers.deobf
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.discovery
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.discovery.asm
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.event
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.functions
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.modloader
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.network
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.registry
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.toposort
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.versioning
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.relauncher
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.server
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package ibxm
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.block
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.block.material
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.audio
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.entity
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.entity.render
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.gui
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.gui.achievement
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.gui.inventory
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.mco
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.model
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.multiplayer
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.particle
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.culling
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.entity
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.texture
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.tileentity
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.settings
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.stats
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.texturepacks
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.command
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.crash
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.creativetab
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.dispenser
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.enchantment
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.ai
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.boss
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.effect
+2025-03-07 12:38:05 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.item
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.monster
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.passive
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.player
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.projectile
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.inventory
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.item
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.item.crafting
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.logging
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.nbt
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.network
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.network.packet
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.network.rcon
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.pathfinding
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.potion
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.profiler
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.scoreboard
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.dedicated
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.gui
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.integrated
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.management
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.src
+2025-03-07 12:38:06 [FINE] [ForgeModLoader] Identified a BaseMod type mod net.minecraft.src.mod_SprintKey
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.stats
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.tileentity
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.util
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.village
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.biome
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.chunk
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.chunk.storage
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.demo
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen.feature
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen.layer
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen.structure
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.storage
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.classloading
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.event
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.event.sound
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.model
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.model.obj
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.common
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.common.network
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.common.network.packet
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.brewing
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.item
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.living
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.minecart
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.player
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.terraingen
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.world
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.liquids
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.oredict
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.transformers
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package paulscode
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package paulscode.sound
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package paulscode.sound.codecs
+2025-03-07 12:38:06 [FINE] [ForgeModLoader] Examining directory minecraft for potential mods
+2025-03-07 12:38:06 [FINE] [ForgeModLoader] No mcmod.info file found in directory minecraft
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package cpw
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.client
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.client.modloader
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.client.registry
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.asm
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.asm.transformers
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.asm.transformers.deobf
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.discovery
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.discovery.asm
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.event
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.functions
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.modloader
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.network
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.registry
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.toposort
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.common.versioning
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.relauncher
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package cpw.mods.fml.server
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package ibxm
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.block
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.block.material
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.audio
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.entity
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.entity.render
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.gui
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.gui.achievement
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.gui.inventory
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.mco
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.model
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.multiplayer
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.particle
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.culling
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.entity
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.texture
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.renderer.tileentity
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.settings
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.stats
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.client.texturepacks
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.command
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.crash
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.creativetab
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.dispenser
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.enchantment
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.ai
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.boss
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.effect
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.item
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.monster
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.passive
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.player
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.entity.projectile
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.inventory
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.item
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.item.crafting
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.logging
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.nbt
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.network
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.network.packet
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.network.rcon
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.pathfinding
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.potion
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.profiler
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.scoreboard
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.dedicated
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.gui
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.integrated
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.server.management
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.src
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.stats
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.tileentity
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.util
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.village
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.biome
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.chunk
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.chunk.storage
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.demo
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen.feature
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen.layer
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.gen.structure
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraft.world.storage
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.classloading
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.event
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.event.sound
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.model
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.client.model.obj
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.common
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.common.network
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.common.network.packet
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.brewing
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.item
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.living
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.minecart
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.entity.player
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.terraingen
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.event.world
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.liquids
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.oredict
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package net.minecraftforge.transformers
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package paulscode
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package paulscode.sound
+2025-03-07 12:38:06 [FINEST] [ForgeModLoader] Recursing into package paulscode.sound.codecs
+2025-03-07 12:38:06 [FINE] [ForgeModLoader] Examining directory lib for potential mods
+2025-03-07 12:38:06 [FINE] [ForgeModLoader] No mcmod.info file found in directory lib
+2025-03-07 12:38:06 [FINE] [ForgeModLoader] Examining file argo-3.2-src.jar for potential mods
+2025-03-07 12:38:06 [FINE] [ForgeModLoader] The mod container argo-3.2-src.jar appears to be missing an mcmod.info file
+2025-03-07 12:38:06 [FINE] [ForgeModLoader] Examining file asm-debug-all-4.1.jar for potential mods
+2025-03-07 12:38:06 [FINE] [ForgeModLoader] The mod container asm-debug-all-4.1.jar appears to be missing an mcmod.info file
+2025-03-07 12:38:06 [FINE] [ForgeModLoader] Examining file bcprov-debug-jdk15on-148.jar for potential mods
+2025-03-07 12:38:06 [FINE] [ForgeModLoader] The mod container bcprov-debug-jdk15on-148.jar appears to be missing an mcmod.info file
+2025-03-07 12:38:07 [FINE] [ForgeModLoader] Examining file guava-14.0-rc3-sources.jar for potential mods
+2025-03-07 12:38:07 [FINE] [ForgeModLoader] The mod container guava-14.0-rc3-sources.jar appears to be missing an mcmod.info file
+2025-03-07 12:38:07 [FINE] [ForgeModLoader] Examining file minecraft.jar for potential mods
+2025-03-07 12:38:07 [FINE] [ForgeModLoader] The mod container minecraft.jar appears to be missing an mcmod.info file
+2025-03-07 12:38:07 [INFO] [ForgeModLoader] Forge Mod Loader has identified 4 mods to load
+2025-03-07 12:38:07 [FINER] [ForgeModLoader] Received a system property request ''
+2025-03-07 12:38:07 [FINER] [ForgeModLoader] System property request managing the state of 0 mods
+2025-03-07 12:38:07 [FINE] [ForgeModLoader] After merging, found state information for 0 mods
+2025-03-07 12:38:07 [FINE] [ForgeModLoader] Reloading logging properties from C:\Users\Iñaki Olcese\Desktop\MCP_FORGE_1.5.2\jars\config\logging.properties
+2025-03-07 12:38:07 [FINE] [ForgeModLoader] Reloaded logging properties
+2025-03-07 12:38:07 [FINE] [mcp] Mod Logging channel mcp configured at default level.
+2025-03-07 12:38:07 [INFO] [mcp] Activating mod mcp
+2025-03-07 12:38:07 [FINE] [FML] Mod Logging channel FML configured at default level.
+2025-03-07 12:38:07 [INFO] [FML] Activating mod FML
+2025-03-07 12:38:07 [FINE] [Forge] Mod Logging channel Forge configured at default level.
+2025-03-07 12:38:07 [INFO] [Forge] Activating mod Forge
+2025-03-07 12:38:07 [FINE] [ForgeModLoader] Enabling mod mod_SprintKey
+2025-03-07 12:38:07 [FINE] [mod_SprintKey] Mod Logging channel mod_SprintKey configured at default level.
+2025-03-07 12:38:07 [INFO] [mod_SprintKey] Activating mod mod_SprintKey
+2025-03-07 12:38:07 [FINER] [ForgeModLoader] Verifying mod requirements are satisfied
+2025-03-07 12:38:07 [FINER] [ForgeModLoader] All mod requirements are satisfied
+2025-03-07 12:38:07 [FINER] [ForgeModLoader] Sorting mods into an ordered list
+2025-03-07 12:38:07 [FINER] [ForgeModLoader] Mod sorting completed successfully
+2025-03-07 12:38:07 [FINE] [ForgeModLoader] Mod sorting data
+2025-03-07 12:38:07 [FINE] [ForgeModLoader] 	mod_SprintKey(mod_SprintKey:Not available): minecraft ()
+2025-03-07 12:38:07 [FINEST] [mcp] Sending event FMLConstructionEvent to mod mcp
+2025-03-07 12:38:07 [FINEST] [mcp] Sent event FMLConstructionEvent to mod mcp
+2025-03-07 12:38:07 [FINEST] [FML] Sending event FMLConstructionEvent to mod FML
+2025-03-07 12:38:07 [FINEST] [FML] Sent event FMLConstructionEvent to mod FML
+2025-03-07 12:38:07 [FINEST] [Forge] Sending event FMLConstructionEvent to mod Forge
+2025-03-07 12:38:07 [INFO] [ForgeModLoader] Registering Forge Packet Handler
+2025-03-07 12:38:07 [FINEST] [ForgeModLoader] Testing mod Forge to verify it accepts its own version in a remote connection
+2025-03-07 12:38:07 [FINEST] [ForgeModLoader] The mod Forge accepts its own version (7.8.1.738)
+2025-03-07 12:38:07 [INFO] [ForgeModLoader] Succeeded registering Forge Packet Handler
+2025-03-07 12:38:07 [FINEST] [Forge] Sent event FMLConstructionEvent to mod Forge
+2025-03-07 12:38:07 [FINEST] [mod_SprintKey] Sending event FMLConstructionEvent to mod mod_SprintKey
+2025-03-07 12:38:07 [FINE] [ForgeModLoader] No MLProp configuration for mod_SprintKey found or required. No file written
+2025-03-07 12:38:07 [FINE] [ForgeModLoader] Injecting dummy network mod handler for BaseMod mod_SprintKey
+2025-03-07 12:38:07 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into mod_SprintKey
+2025-03-07 12:38:07 [FINEST] [mod_SprintKey] Sent event FMLConstructionEvent to mod mod_SprintKey
+2025-03-07 12:38:07 [FINE] [ForgeModLoader] Mod signature data
+2025-03-07 12:38:07 [FINE] [ForgeModLoader] 	mcp(Minecraft Coder Pack:7.51): minecraft.jar (NO VALID CERTIFICATE FOUND)
+2025-03-07 12:38:07 [FINE] [ForgeModLoader] 	FML(Forge Mod Loader:5.2.23.738): coremods (NO VALID CERTIFICATE FOUND)
+2025-03-07 12:38:07 [FINE] [ForgeModLoader] 	Forge(Minecraft Forge:7.8.1.738): coremods (NO VALID CERTIFICATE FOUND)
+2025-03-07 12:38:07 [FINE] [ForgeModLoader] 	mod_SprintKey(mod_SprintKey:1.4.7): minecraft (NO VALID CERTIFICATE FOUND)
+2025-03-07 12:38:07 [FINEST] [mcp] Sending event FMLPreInitializationEvent to mod mcp
+2025-03-07 12:38:07 [FINEST] [mcp] Sent event FMLPreInitializationEvent to mod mcp
+2025-03-07 12:38:07 [FINEST] [FML] Sending event FMLPreInitializationEvent to mod FML
+2025-03-07 12:38:07 [FINEST] [FML] Sent event FMLPreInitializationEvent to mod FML
+2025-03-07 12:38:07 [FINEST] [Forge] Sending event FMLPreInitializationEvent to mod Forge
+2025-03-07 12:38:07 [INFO] [ForgeModLoader] Configured a dormant chunk cache size of 0
+2025-03-07 12:38:07 [FINEST] [Forge] Sent event FMLPreInitializationEvent to mod Forge
+2025-03-07 12:38:07 [FINEST] [mod_SprintKey] Sending event FMLPreInitializationEvent to mod mod_SprintKey
+2025-03-07 12:38:07 [FINEST] [mod_SprintKey] Sent event FMLPreInitializationEvent to mod mod_SprintKey
+2025-03-07 12:38:07 [INFO] [STDOUT] 
+2025-03-07 12:38:07 [INFO] [STDOUT] Starting up SoundSystem...
+2025-03-07 12:38:07 [INFO] [STDOUT] Initializing LWJGL OpenAL
+2025-03-07 12:38:07 [INFO] [STDOUT]     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+2025-03-07 12:38:07 [INFO] [STDOUT] OpenAL initialized.
+2025-03-07 12:38:07 [INFO] [STDOUT] 
+2025-03-07 12:38:08 [INFO] [ForgeModLoader] Forge Mod Loader has detected an older LWJGL version, new advanced texture animation features are disabled
+2025-03-07 12:38:08 [INFO] [ForgeModLoader] Not using advanced OpenGL 4.3 advanced capability for animations : OpenGL 4.3 is not available
+2025-03-07 12:38:08 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/lava_flow.txt
+2025-03-07 12:38:08 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/water_flow.txt
+2025-03-07 12:38:08 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/fire_0.txt
+2025-03-07 12:38:08 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/fire_1.txt
+2025-03-07 12:38:08 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/lava.txt
+2025-03-07 12:38:08 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/portal.txt
+2025-03-07 12:38:08 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/water.txt
+2025-03-07 12:38:09 [INFO] [Minecraft-Client] Found animation info for: textures/items/clock.txt
+2025-03-07 12:38:09 [INFO] [Minecraft-Client] Found animation info for: textures/items/compass.txt
+2025-03-07 12:38:09 [FINEST] [mcp] Sending event FMLInitializationEvent to mod mcp
+2025-03-07 12:38:09 [FINEST] [mcp] Sent event FMLInitializationEvent to mod mcp
+2025-03-07 12:38:09 [FINEST] [FML] Sending event FMLInitializationEvent to mod FML
+2025-03-07 12:38:09 [FINEST] [FML] Sent event FMLInitializationEvent to mod FML
+2025-03-07 12:38:09 [FINEST] [Forge] Sending event FMLInitializationEvent to mod Forge
+2025-03-07 12:38:09 [FINEST] [Forge] Sent event FMLInitializationEvent to mod Forge
+2025-03-07 12:38:09 [FINEST] [mod_SprintKey] Sending event FMLInitializationEvent to mod mod_SprintKey
+2025-03-07 12:38:09 [INFO] [STDOUT] SprintKey mod cargado correctamente!
+2025-03-07 12:38:09 [FINEST] [mod_SprintKey] Sent event FMLInitializationEvent to mod mod_SprintKey
+2025-03-07 12:38:09 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod mcp
+2025-03-07 12:38:09 [FINEST] [mcp] Sending event IMCEvent to mod mcp
+2025-03-07 12:38:09 [FINEST] [mcp] Sent event IMCEvent to mod mcp
+2025-03-07 12:38:09 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod FML
+2025-03-07 12:38:09 [FINEST] [FML] Sending event IMCEvent to mod FML
+2025-03-07 12:38:09 [FINEST] [FML] Sent event IMCEvent to mod FML
+2025-03-07 12:38:09 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod Forge
+2025-03-07 12:38:09 [FINEST] [Forge] Sending event IMCEvent to mod Forge
+2025-03-07 12:38:09 [FINEST] [Forge] Sent event IMCEvent to mod Forge
+2025-03-07 12:38:09 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod mod_SprintKey
+2025-03-07 12:38:09 [FINEST] [mod_SprintKey] Sending event IMCEvent to mod mod_SprintKey
+2025-03-07 12:38:09 [FINEST] [mod_SprintKey] Sent event IMCEvent to mod mod_SprintKey
+2025-03-07 12:38:09 [FINEST] [mcp] Sending event FMLPostInitializationEvent to mod mcp
+2025-03-07 12:38:09 [FINEST] [mcp] Sent event FMLPostInitializationEvent to mod mcp
+2025-03-07 12:38:09 [FINEST] [FML] Sending event FMLPostInitializationEvent to mod FML
+2025-03-07 12:38:09 [FINEST] [FML] Sent event FMLPostInitializationEvent to mod FML
+2025-03-07 12:38:09 [FINEST] [Forge] Sending event FMLPostInitializationEvent to mod Forge
+2025-03-07 12:38:09 [FINEST] [Forge] Sent event FMLPostInitializationEvent to mod Forge
+2025-03-07 12:38:09 [FINEST] [mod_SprintKey] Sending event FMLPostInitializationEvent to mod mod_SprintKey
+2025-03-07 12:38:09 [FINEST] [mod_SprintKey] Sent event FMLPostInitializationEvent to mod mod_SprintKey
+2025-03-07 12:38:09 [FINEST] [mcp] Sending event FMLLoadCompleteEvent to mod mcp
+2025-03-07 12:38:09 [FINEST] [mcp] Sent event FMLLoadCompleteEvent to mod mcp
+2025-03-07 12:38:09 [FINEST] [FML] Sending event FMLLoadCompleteEvent to mod FML
+2025-03-07 12:38:09 [FINEST] [FML] Sent event FMLLoadCompleteEvent to mod FML
+2025-03-07 12:38:09 [FINEST] [Forge] Sending event FMLLoadCompleteEvent to mod Forge
+2025-03-07 12:38:09 [FINEST] [Forge] Sent event FMLLoadCompleteEvent to mod Forge
+2025-03-07 12:38:09 [FINEST] [mod_SprintKey] Sending event FMLLoadCompleteEvent to mod mod_SprintKey
+2025-03-07 12:38:09 [FINE] [mod_SprintKey] Handling post startup activities for ModLoader mod mod_SprintKey
+2025-03-07 12:38:09 [FINEST] [mod_SprintKey] Requesting renderers from basemod mod_SprintKey
+2025-03-07 12:38:09 [FINEST] [mod_SprintKey] Received 54 renderers from basemod mod_SprintKey
+2025-03-07 12:38:09 [FINEST] [mod_SprintKey] Sent event FMLLoadCompleteEvent to mod mod_SprintKey
+2025-03-07 12:38:09 [INFO] [ForgeModLoader] Forge Mod Loader has successfully loaded 4 mods
+2025-03-07 12:38:09 [INFO] [STDERR] java.net.UnknownHostException: assets.minecraft.net
+2025-03-07 12:38:09 [INFO] [STDERR] 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:196)
+2025-03-07 12:38:09 [INFO] [STDERR] 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:162)
+2025-03-07 12:38:09 [INFO] [STDERR] 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:394)
+2025-03-07 12:38:09 [INFO] [STDERR] 	at java.net.Socket.connect(Socket.java:606)
+2025-03-07 12:38:09 [INFO] [STDERR] 	at java.net.Socket.connect(Socket.java:555)
+2025-03-07 12:38:09 [INFO] [STDERR] 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+2025-03-07 12:38:09 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:499)
+2025-03-07 12:38:09 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:594)
+2025-03-07 12:38:09 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:278)
+2025-03-07 12:38:09 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.New(HttpClient.java:375)
+2025-03-07 12:38:09 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.New(HttpClient.java:393)
+2025-03-07 12:38:09 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1255)
+2025-03-07 12:38:09 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1182)
+2025-03-07 12:38:09 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1076)
+2025-03-07 12:38:09 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1010)
+2025-03-07 12:38:09 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1621)
+2025-03-07 12:38:09 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1549)
+2025-03-07 12:38:09 [INFO] [STDERR] 	at net.minecraft.util.HttpUtil.func_104145_a(HttpUtil.java:230)
+2025-03-07 12:38:09 [INFO] [STDERR] 	at net.minecraft.client.gui.RunnableTitleScreen.run(RunnableTitleScreen.java:23)
+2025-03-07 12:38:09 [INFO] [STDERR] 	at java.lang.Thread.run(Thread.java:750)
+2025-03-07 12:38:09 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/lava_flow.txt
+2025-03-07 12:38:09 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/water_flow.txt
+2025-03-07 12:38:09 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/fire_0.txt
+2025-03-07 12:38:09 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/fire_1.txt
+2025-03-07 12:38:09 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/lava.txt
+2025-03-07 12:38:09 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/portal.txt
+2025-03-07 12:38:09 [INFO] [Minecraft-Client] Found animation info for: textures/blocks/water.txt
+2025-03-07 12:38:10 [WARNING] [Minecraft-Client] Failed to add pack.mcmeta in resources
+2025-03-07 12:38:10 [WARNING] [Minecraft-Client] Failed to add READ_ME_I_AM_VERY_IMPORTANT in resources
+2025-03-07 12:38:10 [INFO] [STDERR] java.io.FileNotFoundException: http://s3.amazonaws.com/MinecraftResources/
+2025-03-07 12:38:10 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1947)
+2025-03-07 12:38:10 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1549)
+2025-03-07 12:38:10 [INFO] [STDERR] 	at net.minecraft.util.ThreadDownloadResources.run(ThreadDownloadResources.java:57)
+2025-03-07 12:38:10 [INFO] [Minecraft-Client] Found animation info for: textures/items/clock.txt
+2025-03-07 12:38:10 [INFO] [Minecraft-Client] Found animation info for: textures/items/compass.txt
+2025-03-07 12:38:17 [INFO] [STDERR] java.net.UnknownHostException: assets.minecraft.net
+2025-03-07 12:38:17 [INFO] [STDERR] 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:196)
+2025-03-07 12:38:17 [INFO] [STDERR] 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:162)
+2025-03-07 12:38:17 [INFO] [STDERR] 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:394)
+2025-03-07 12:38:17 [INFO] [STDERR] 	at java.net.Socket.connect(Socket.java:606)
+2025-03-07 12:38:17 [INFO] [STDERR] 	at java.net.Socket.connect(Socket.java:555)
+2025-03-07 12:38:17 [INFO] [STDERR] 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+2025-03-07 12:38:17 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:499)
+2025-03-07 12:38:17 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:594)
+2025-03-07 12:38:17 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:278)
+2025-03-07 12:38:17 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.New(HttpClient.java:375)
+2025-03-07 12:38:17 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.New(HttpClient.java:393)
+2025-03-07 12:38:17 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1255)
+2025-03-07 12:38:17 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1182)
+2025-03-07 12:38:17 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1076)
+2025-03-07 12:38:17 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1010)
+2025-03-07 12:38:17 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1621)
+2025-03-07 12:38:17 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1549)
+2025-03-07 12:38:17 [INFO] [STDERR] 	at net.minecraft.util.HttpUtil.func_104145_a(HttpUtil.java:230)
+2025-03-07 12:38:17 [INFO] [STDERR] 	at net.minecraft.client.gui.RunnableTitleScreen.run(RunnableTitleScreen.java:23)
+2025-03-07 12:38:17 [INFO] [STDERR] 	at java.lang.Thread.run(Thread.java:750)
+2025-03-07 12:38:17 [INFO] [Minecraft-Server] Starting integrated minecraft server version 1.5.2
+2025-03-07 12:38:17 [INFO] [Minecraft-Server] Generating keypair
+2025-03-07 12:38:17 [FINEST] [mcp] Sending event FMLServerAboutToStartEvent to mod mcp
+2025-03-07 12:38:17 [FINEST] [mcp] Sent event FMLServerAboutToStartEvent to mod mcp
+2025-03-07 12:38:17 [FINEST] [FML] Sending event FMLServerAboutToStartEvent to mod FML
+2025-03-07 12:38:17 [FINEST] [FML] Sent event FMLServerAboutToStartEvent to mod FML
+2025-03-07 12:38:17 [FINEST] [Forge] Sending event FMLServerAboutToStartEvent to mod Forge
+2025-03-07 12:38:17 [FINEST] [Forge] Sent event FMLServerAboutToStartEvent to mod Forge
+2025-03-07 12:38:17 [FINEST] [mod_SprintKey] Sending event FMLServerAboutToStartEvent to mod mod_SprintKey
+2025-03-07 12:38:17 [FINEST] [mod_SprintKey] Sent event FMLServerAboutToStartEvent to mod mod_SprintKey
+2025-03-07 12:38:17 [INFO] [Minecraft-Server] Converting map!
+2025-03-07 12:38:17 [INFO] [Minecraft-Server] Scanning folders...
+2025-03-07 12:38:17 [INFO] [Minecraft-Server] Total conversion count is 0
+2025-03-07 12:38:17 [FINE] [fml.ItemTracker] The difference set is equal
+2025-03-07 12:38:18 [INFO] [ForgeModLoader] Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@5c86b844)
+2025-03-07 12:38:18 [INFO] [ForgeModLoader] Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@5c86b844)
+2025-03-07 12:38:18 [INFO] [ForgeModLoader] Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@5c86b844)
+2025-03-07 12:38:18 [INFO] [Minecraft-Server] Preparing start region for level 0
+2025-03-07 12:38:19 [INFO] [Minecraft-Server] Preparing spawn area: 9%
+2025-03-07 12:38:20 [INFO] [Minecraft-Server] Preparing spawn area: 19%
+2025-03-07 12:38:21 [INFO] [Minecraft-Server] Preparing spawn area: 29%
+2025-03-07 12:38:22 [INFO] [Minecraft-Server] Preparing spawn area: 43%
+2025-03-07 12:38:23 [INFO] [Minecraft-Server] Preparing spawn area: 61%
+2025-03-07 12:38:24 [INFO] [Minecraft-Server] Preparing spawn area: 78%
+2025-03-07 12:38:25 [FINEST] [mcp] Sending event FMLServerStartingEvent to mod mcp
+2025-03-07 12:38:25 [FINEST] [mcp] Sent event FMLServerStartingEvent to mod mcp
+2025-03-07 12:38:25 [FINEST] [FML] Sending event FMLServerStartingEvent to mod FML
+2025-03-07 12:38:25 [FINEST] [FML] Sent event FMLServerStartingEvent to mod FML
+2025-03-07 12:38:25 [FINEST] [Forge] Sending event FMLServerStartingEvent to mod Forge
+2025-03-07 12:38:25 [FINEST] [Forge] Sent event FMLServerStartingEvent to mod Forge
+2025-03-07 12:38:25 [FINEST] [mod_SprintKey] Sending event FMLServerStartingEvent to mod mod_SprintKey
+2025-03-07 12:38:25 [FINEST] [mod_SprintKey] Sent event FMLServerStartingEvent to mod mod_SprintKey
+2025-03-07 12:38:25 [FINEST] [mcp] Sending event FMLServerStartedEvent to mod mcp
+2025-03-07 12:38:25 [FINEST] [mcp] Sent event FMLServerStartedEvent to mod mcp
+2025-03-07 12:38:25 [FINEST] [FML] Sending event FMLServerStartedEvent to mod FML
+2025-03-07 12:38:25 [FINEST] [FML] Sent event FMLServerStartedEvent to mod FML
+2025-03-07 12:38:25 [FINEST] [Forge] Sending event FMLServerStartedEvent to mod Forge
+2025-03-07 12:38:25 [FINEST] [Forge] Sent event FMLServerStartedEvent to mod Forge
+2025-03-07 12:38:25 [FINEST] [mod_SprintKey] Sending event FMLServerStartedEvent to mod mod_SprintKey
+2025-03-07 12:38:25 [FINEST] [mod_SprintKey] Sent event FMLServerStartedEvent to mod mod_SprintKey
+2025-03-07 12:38:25 [INFO] [STDERR] java.net.UnknownHostException: assets.minecraft.net
+2025-03-07 12:38:25 [INFO] [STDERR] 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:196)
+2025-03-07 12:38:25 [INFO] [STDERR] 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:162)
+2025-03-07 12:38:25 [INFO] [STDERR] 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:394)
+2025-03-07 12:38:25 [INFO] [STDERR] 	at java.net.Socket.connect(Socket.java:606)
+2025-03-07 12:38:25 [INFO] [STDERR] 	at java.net.Socket.connect(Socket.java:555)
+2025-03-07 12:38:25 [INFO] [STDERR] 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+2025-03-07 12:38:25 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:499)
+2025-03-07 12:38:25 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:594)
+2025-03-07 12:38:25 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:278)
+2025-03-07 12:38:25 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.New(HttpClient.java:375)
+2025-03-07 12:38:25 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.New(HttpClient.java:393)
+2025-03-07 12:38:25 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1255)
+2025-03-07 12:38:25 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1182)
+2025-03-07 12:38:25 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1076)
+2025-03-07 12:38:25 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1010)
+2025-03-07 12:38:25 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1621)
+2025-03-07 12:38:25 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1549)
+2025-03-07 12:38:25 [INFO] [STDERR] 	at net.minecraft.util.HttpUtil.func_104145_a(HttpUtil.java:230)
+2025-03-07 12:38:25 [INFO] [STDERR] 	at net.minecraft.client.gui.RunnableTitleScreen.run(RunnableTitleScreen.java:23)
+2025-03-07 12:38:25 [INFO] [STDERR] 	at java.lang.Thread.run(Thread.java:750)
+2025-03-07 12:38:25 [INFO] [Minecraft-Server] Player567[/127.0.0.1:0] logged in with entity id 234 at (-109.5, 76.0, 251.5)
+2025-03-07 12:38:26 [INFO] [STDERR] java.net.UnknownHostException: skins.minecraft.net
+2025-03-07 12:38:26 [INFO] [STDERR] 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:196)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:162)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:394)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at java.net.Socket.connect(Socket.java:606)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at java.net.Socket.connect(Socket.java:555)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:499)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:594)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:278)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.New(HttpClient.java:375)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.New(HttpClient.java:393)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1255)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1182)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1076)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1010)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at net.minecraft.client.renderer.ThreadDownloadImage.run(ThreadDownloadImage.java:38)
+2025-03-07 12:38:26 [INFO] [STDERR] java.net.UnknownHostException: skins.minecraft.net
+2025-03-07 12:38:26 [INFO] [STDERR] 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:196)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:162)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:394)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at java.net.Socket.connect(Socket.java:606)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at java.net.Socket.connect(Socket.java:555)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:499)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:594)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:278)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.New(HttpClient.java:375)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.New(HttpClient.java:393)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1255)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1182)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1076)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1010)
+2025-03-07 12:38:26 [INFO] [STDERR] 	at net.minecraft.client.renderer.ThreadDownloadImage.run(ThreadDownloadImage.java:38)
+2025-03-07 12:39:10 [INFO] [Minecraft-Server] Saving and pausing game...
+2025-03-07 12:39:10 [INFO] [Minecraft-Server] Saving chunks for level 'New World'/Overworld
+2025-03-07 12:39:10 [INFO] [Minecraft-Server] Saving chunks for level 'New World'/Nether
+2025-03-07 12:39:10 [INFO] [Minecraft-Server] Saving chunks for level 'New World'/The End
+2025-03-07 12:39:11 [FINEST] [mcp] Sending event FMLServerStoppingEvent to mod mcp
+2025-03-07 12:39:11 [FINEST] [mcp] Sent event FMLServerStoppingEvent to mod mcp
+2025-03-07 12:39:11 [FINEST] [FML] Sending event FMLServerStoppingEvent to mod FML
+2025-03-07 12:39:11 [FINEST] [FML] Sent event FMLServerStoppingEvent to mod FML
+2025-03-07 12:39:11 [FINEST] [Forge] Sending event FMLServerStoppingEvent to mod Forge
+2025-03-07 12:39:11 [FINEST] [Forge] Sent event FMLServerStoppingEvent to mod Forge
+2025-03-07 12:39:11 [FINEST] [mod_SprintKey] Sending event FMLServerStoppingEvent to mod mod_SprintKey
+2025-03-07 12:39:11 [FINEST] [mod_SprintKey] Sent event FMLServerStoppingEvent to mod mod_SprintKey
+2025-03-07 12:39:11 [INFO] [Minecraft-Server] Stopping server
+2025-03-07 12:39:11 [INFO] [Minecraft-Server] Saving players
+2025-03-07 12:39:11 [INFO] [Minecraft-Server] Saving worlds
+2025-03-07 12:39:11 [INFO] [Minecraft-Server] Saving chunks for level 'New World'/Overworld
+2025-03-07 12:39:11 [INFO] [Minecraft-Server] Saving chunks for level 'New World'/Nether
+2025-03-07 12:39:11 [INFO] [Minecraft-Server] Saving chunks for level 'New World'/The End
+2025-03-07 12:39:12 [INFO] [ForgeModLoader] Unloading dimension 0
+2025-03-07 12:39:12 [INFO] [ForgeModLoader] Unloading dimension -1
+2025-03-07 12:39:12 [INFO] [ForgeModLoader] Unloading dimension 1
+2025-03-07 12:39:12 [FINEST] [mcp] Sending event FMLServerStoppedEvent to mod mcp
+2025-03-07 12:39:12 [FINEST] [mcp] Sent event FMLServerStoppedEvent to mod mcp
+2025-03-07 12:39:12 [FINEST] [FML] Sending event FMLServerStoppedEvent to mod FML
+2025-03-07 12:39:12 [FINEST] [FML] Sent event FMLServerStoppedEvent to mod FML
+2025-03-07 12:39:12 [FINEST] [Forge] Sending event FMLServerStoppedEvent to mod Forge
+2025-03-07 12:39:12 [FINEST] [Forge] Sent event FMLServerStoppedEvent to mod Forge
+2025-03-07 12:39:12 [FINEST] [mod_SprintKey] Sending event FMLServerStoppedEvent to mod mod_SprintKey
+2025-03-07 12:39:12 [FINEST] [mod_SprintKey] Sent event FMLServerStoppedEvent to mod mod_SprintKey
+2025-03-07 12:39:12 [INFO] [STDERR] java.net.UnknownHostException: assets.minecraft.net
+2025-03-07 12:39:12 [INFO] [STDERR] 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:196)
+2025-03-07 12:39:12 [INFO] [STDERR] 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:162)
+2025-03-07 12:39:12 [INFO] [STDERR] 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:394)
+2025-03-07 12:39:12 [INFO] [STDERR] 	at java.net.Socket.connect(Socket.java:606)
+2025-03-07 12:39:12 [INFO] [STDERR] 	at java.net.Socket.connect(Socket.java:555)
+2025-03-07 12:39:12 [INFO] [STDERR] 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+2025-03-07 12:39:12 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:499)
+2025-03-07 12:39:12 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:594)
+2025-03-07 12:39:12 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.<init>(HttpClient.java:278)
+2025-03-07 12:39:12 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.New(HttpClient.java:375)
+2025-03-07 12:39:12 [INFO] [STDERR] 	at sun.net.www.http.HttpClient.New(HttpClient.java:393)
+2025-03-07 12:39:12 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1255)
+2025-03-07 12:39:12 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1182)
+2025-03-07 12:39:12 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1076)
+2025-03-07 12:39:12 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1010)
+2025-03-07 12:39:12 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1621)
+2025-03-07 12:39:12 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1549)
+2025-03-07 12:39:12 [INFO] [STDERR] 	at net.minecraft.util.HttpUtil.func_104145_a(HttpUtil.java:230)
+2025-03-07 12:39:12 [INFO] [STDERR] 	at net.minecraft.client.gui.RunnableTitleScreen.run(RunnableTitleScreen.java:23)
+2025-03-07 12:39:12 [INFO] [STDERR] 	at java.lang.Thread.run(Thread.java:750)
+2025-03-07 12:39:15 [INFO] [Minecraft-Client] Stopping!
+2025-03-07 12:39:15 [INFO] [STDOUT] 
+2025-03-07 12:39:15 [INFO] [STDOUT] SoundSystem shutting down...
+2025-03-07 12:39:16 [INFO] [STDOUT]     Author: Paul Lamb, www.paulscode.com
+2025-03-07 12:39:16 [INFO] [STDOUT] 
